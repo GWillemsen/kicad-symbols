@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TP4056
+D TP4056/TC4056A Single cell Lion battery charger IC
+K TC4056A, TP4056, battery, charger, lion
+F http://www.tp4056.com/d/tp4056.pdf
+$ENDCMP
+#
+#End Doc Library
