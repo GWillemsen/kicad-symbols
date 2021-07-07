@@ -32,218 +32,260 @@ $ENDCMP
 #
 $CMP HT7325
 D 12V input, 180mA Low Dropout regulator 2.5V
-K Holtek LDO 180mA HT73xx 
+K Holtek LDO 180mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT7325-1
 D 30V input, 250mA Low Dropout regulator 2.5V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT7325-2
 D 30V input, 250mA Low Dropout regulator 2.5V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT7325-3
 D 30V input, 250mA Low Dropout regulator 2.5V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
 $ENDCMP
 #
 $CMP HT7327
 D 12V input, 250mA Low Dropout regulator 2.7V
-K Holtek LDO 200mA HT73xx 
+K Holtek LDO 200mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT7327-1
 D 30V input, 250mA Low Dropout regulator 2.7V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT7327-2
 D 30V input, 250mA Low Dropout regulator 2.7V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT7327-3
 D 30V input, 250mA Low Dropout regulator 2.7V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
 $ENDCMP
 #
 $CMP HT7330
 D 12V input, 250mA Low Dropout regulator 3.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT7330-1
 D 30V input, 250mA Low Dropout regulator 3.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT7330-2
 D 30V input, 250mA Low Dropout regulator 3.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT7330-3
 D 30V input, 250mA Low Dropout regulator 3.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
 $ENDCMP
 #
 $CMP HT7333
 D 12V input, 250mA Low Dropout regulator 3.3V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT7333-1
 D 30V input, 250mA Low Dropout regulator 3.3V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT7333-2
 D 30V input, 250mA Low Dropout regulator 3.3V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT7333-3
 D 30V input, 250mA Low Dropout regulator 3.3V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
 $ENDCMP
 #
 $CMP HT7336
 D 12V input, 250mA Low Dropout regulator 3.6V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT7336-1
 D 30V input, 250mA Low Dropout regulator 3.6V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT7336-2
 D 30V input, 250mA Low Dropout regulator 3.6V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT7336-3
 D 30V input, 250mA Low Dropout regulator 3.6V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
 $ENDCMP
 #
 $CMP HT7340
 D 12V input, 250mA Low Dropout regulator 4.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT7340-1
 D 30V input, 250mA Low Dropout regulator 4.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT7340-2
 D 30V input, 250mA Low Dropout regulator 4.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT7340-3
 D 30V input, 250mA Low Dropout regulator 4.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
 $ENDCMP
 #
 $CMP HT7344
 D 12V input, 250mA Low Dropout regulator 4.4V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT7344-1
 D 30V input, 250mA Low Dropout regulator 4.4V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT7344-2
 D 30V input, 250mA Low Dropout regulator 4.4V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT7344-3
 D 30V input, 250mA Low Dropout regulator 4.4V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
 $ENDCMP
 #
 $CMP HT7350
 D 12V input, 250mA Low Dropout regulator 5.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT7350-1
 D 30V input, 250mA Low Dropout regulator 5.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT7350-2
 D 30V input, 250mA Low Dropout regulator 5.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT7350-3
 D 30V input, 250mA Low Dropout regulator 5.0V
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
 $ENDCMP
 #
 $CMP HT73xx
 D 12V input, Low Dropout regulator
-K Holtek LDO  HT73xx 
+K Holtek LDO  HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xxv120.pdf
 $ENDCMP
 #
 $CMP HT73xx-1
 D 30V input, 250mA Low Dropout regulator
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-1v120.pdf
 $ENDCMP
 #
 $CMP HT73xx-2
 D 30V input, 250mA Low Dropout regulator
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-2v120.pdf
 $ENDCMP
 #
 $CMP HT73xx-3
 D 30V input, 250mA Low Dropout regulator
-K Holtek LDO 250mA HT73xx 
+K Holtek LDO 250mA HT73xx
 F https://www.holtek.com/documents/10179/116711/HT73xx-3v120.pdf
+$ENDCMP
+#
+$CMP HT7818
+D 8V input, Low Dropout regulator 1.8V
+K Holtek LDO HT78xx
+F https://www.holtek.com/documents/10179/116711/HT78xxv150.pdf
+$ENDCMP
+#
+$CMP HT7825
+D 8V input, Low Dropout regulator 2.5V
+K Holtek LDO HT78xx
+F https://www.holtek.com/documents/10179/116711/HT78xxv150.pdf
+$ENDCMP
+#
+$CMP HT7827
+D 8V input, Low Dropout regulator 2.7V
+K Holtek LDO HT78xx
+F https://www.holtek.com/documents/10179/116711/HT78xxv150.pdf
+$ENDCMP
+#
+$CMP HT7830
+D 8V input, Low Dropout regulator 3.0V
+K Holtek LDO HT78xx
+F https://www.holtek.com/documents/10179/116711/HT78xxv150.pdf
+$ENDCMP
+#
+$CMP HT7833
+D 8V input, Low Dropout regulator 3.3V
+K Holtek LDO HT78xx
+F https://www.holtek.com/documents/10179/116711/HT78xxv150.pdf
+$ENDCMP
+#
+$CMP HT7850
+D 8V input, Low Dropout regulator 5.0V
+K Holtek LDO HT78xx
+F https://www.holtek.com/documents/10179/116711/HT78xxv150.pdf
+$ENDCMP
+#
+$CMP HT78xx
+D 8V input, Low Dropout regulator
+K Holtek LDO HT78xx
+F https://www.holtek.com/documents/10179/116711/HT78xxv150.pdf
 $ENDCMP
 #
 #End Doc Library
