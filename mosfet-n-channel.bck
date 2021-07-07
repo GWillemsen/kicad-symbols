@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FS8205
+D Dual N-Channel MOSFET with low Vgs th of max 1.2 V
+K N-Channel MOSFET dual low-voltage
+F https://www.ic-fortune.com/upload/Download/FS8205-DS-19_EN.pdf
+$ENDCMP
+#
+$CMP FS8205A
+D Dual N-Channel MOSFET with low Vgs th of max 1.2 V
+K N-Channel MOSFET dual low-voltage
+F https://www.ic-fortune.com/upload/Download/FS8205A-DS-17_EN.pdf
+$ENDCMP
+#
+#End Doc Library
