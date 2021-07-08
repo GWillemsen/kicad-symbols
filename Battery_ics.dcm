@@ -1,0 +1,63 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DW01
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP DW01+G
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP DW01-G
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP DW01A-G
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP DW01B-G
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP DW01C-G
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP DW01E-G
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP DW01F-G
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP DW01F-g
+D One cell lithium-ion/polymer batery protection IC
+K lithium lion lipo protection battery
+F https://www.ic-fortune.com/upload/Download/DW01x-DS-17_EN.pdf
+$ENDCMP
+#
+$CMP TP4056
+D TP4056/TC4056A Single cell Lion battery charger IC
+K TC4056A, TP4056, battery, charger, lion
+F http://www.tp4056.com/d/tp4056.pdf
+$ENDCMP
+#
+#End Doc Library
