@@ -23,3 +23,4 @@ A library containing N-Channel MOSFETs.
 
 - FS8205    (https://www.ic-fortune.com/eng)
 - FS8205A   (https://www.ic-fortune.com/eng)
+- IRLML2502 (Internal Rectifier, now Infineon https://www.infineon.com/)

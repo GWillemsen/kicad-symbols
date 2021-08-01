@@ -12,4 +12,10 @@ K N-Channel MOSFET dual low-voltage
 F https://www.ic-fortune.com/upload/Download/FS8205A-DS-17_EN.pdf
 $ENDCMP
 #
+$CMP IRLML2502
+D 20V 45mOhm N-MOSFET transistor, gate/source/drain Vgsth of 0.6-1.2V
+K transistor NMOS N-MOS N-MOSFET
+F https://www.infineon.com/dgdl/Infineon-IRLML2502-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a401535668048e2606
+$ENDCMP
+#
 #End Doc Library
