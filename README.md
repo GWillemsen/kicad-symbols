@@ -1,5 +1,12 @@
 # kicad-symbols
-Some KiCad symbols for IC's that I use that are not in KiCad.
+Some KiCad symbols for IC's that I use that are not in KiCad that I created the symbols for (and using the standard footprints in KiCad).
+Use at own your own RISK (see LICENSE for specifics).
+
+## Usage
+The components are split up in libraries mainly by function.
+If you want to use a single part only make sure you download all the \<library name>.* files and not just the \<library name>.lib if there are more files with the same name but different extension.
+Other than that follow the default course for including the symbols in KiCad (Preferences -> Manage Symbol library in KiCad 5.1.10 at least).
+
 
 # Included symbols
 
